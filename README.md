@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI & Web Development**
 - 💬 Ask me about **Python, Java, Databases**
-- 📫 Reach me at: palakpareta01@gmial.com
+- 📫 Reach me at: palakpareta01@gmail.com
 - ⚡ Fun fact: I love solving coding problems & building projects
 ## 🚀 Skills
 - **Languages:** Python, Java, C++
